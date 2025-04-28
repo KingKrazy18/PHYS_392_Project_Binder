@@ -23,6 +23,8 @@ dependencies:
   - scikit-learn>=1.5.1
   - uproot>=5.3.10
   - uproot3>=3.14.4
+  - ipyparallel
+  - requests
   - pip:
     - jupyterlab_latex>=3.1.0
     - vector>=1.4.1
